@@ -1,0 +1,55 @@
+{
+  "Header":
+  {
+    "GenerationSoftware":
+    {
+      "Vendor":      "KiCad",
+      "Application": "Pcbnew",
+      "Version":     "(5.1.2)-2"
+    },
+    "CreationDate":  "2020-04-17T11:06:59-04:00"
+  },
+  "GeneralSpecs":
+  {
+    "ProjectId":
+    {
+      "Name": "DRV-Based Balun",
+      "GUID": "4452562d-4261-4736-9564-2042616c756e",
+      "Revision": "rev?"
+    },
+    "Size":
+    {
+      "X": 53.172,
+      "Y": 61.137
+    },
+    "LayerNumber": 2,
+    "BoardThickness":  1.600
+  },
+  "DesignRules":
+  [
+    {
+      "Layers": "Outer",
+      "PadToPad":  0.200,
+      "PadToTrack":  0.200,
+      "TrackToTrack":  0.200,
+      "MinLineWidth":  1.000,
+      "TrackToRegion":  0.800,
+      "RegionToRegion":  0.800
+    }
+  ],
+  "FilesAttributes":
+  [
+    {
+      "Path":  "DRV-Based Balun-B_Cu.gbr",
+      "FileFunction":  "Copper,L2,Bot",
+      "FilePolarity":  "Positive"
+    }
+  ],
+  "MaterialStackup":
+  [
+    {
+      "Type":  "Copper",
+      "Notes":  "Layer B.Cu"
+    }
+  ]
+}
